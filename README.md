@@ -10,13 +10,13 @@ Lucere是一个以照片分享为核心的社交平台。用户可以在上面�
 
 后端：Node.js + MySQL 
 
-服务器代理：Nginx
+服务器部署：Nginx + pm2
 
 ## 项目运行
 
 ### 线上地址
 
-nanasenishino.cn
+lucere.cn （已过期）
 
 ### 线下运行
 
